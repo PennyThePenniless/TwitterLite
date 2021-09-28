@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bearerKey</key>
+	<string>AAAAAAAAAAAAAAAAAAAAAOudUAEAAAAAe%2FWMkqmAJyuVrD0qhQvFu4VZmZA%3DYu4umsWnKNEITq2UCvZ2mYlLriYcCdCrK9ZxC5FC3PXOQckZFQ
+</string>
+	<key>secretKey</key>
+	<string>Idw0ZdzVwYXlyaMki358OxZCA</string>
+	<key>consumerSecret</key>
+	<string>rKjolHEItnZQ30PNT590v9knNYAmNxOiYapbBoZzod14jUCcfP</string>
+</dict>
+</plist>
